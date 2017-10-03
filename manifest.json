@@ -14,7 +14,8 @@
   "permissions": [
     "menus",
     "storage",
-    "tabs"
+    "tabs",
+    "contextMenus"
   ],
 
   "browser_action": {

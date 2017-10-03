@@ -1,3 +1,6 @@
+'use strict'
+var browser = browser || chrome;
+
 browser.runtime.onMessage.addListener(async m => {
   let response;
 

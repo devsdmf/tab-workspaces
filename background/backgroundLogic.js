@@ -1,3 +1,6 @@
+'use strict'
+var browser = browser || chrome;
+
 const BackgroundLogic = {
 
   init(){
